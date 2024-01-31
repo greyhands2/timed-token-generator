@@ -1,0 +1,19 @@
+{
+  "name": "token-gen-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server1.js",
+  "scripts": {
+    "start1": "node server1",
+    "start2": "node server2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "osas-string-utils": "^1.0.8",
+    "socket.io": "^4.7.4"
+  }
+}
